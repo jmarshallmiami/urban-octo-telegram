@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* add style to header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* HERO STYLE START */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +78,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* BENEFITS SIDE PANEL STYLE START */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +140,9 @@ p {
     max-width: 150px;
 }
 
+
+/* HERO CONTENT STYLE START */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,6 +170,7 @@ p {
     color: #ffffff;
 }
 
+/* IMAGE STYLE START */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +182,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/* HEADER STYLE HERO SECTIONS */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -188,6 +200,7 @@ p {
     font-size: 36px;
 }
 
+/* FOOTER STYLE START */
 .footer {
     padding: 30px;
     clear: both;
