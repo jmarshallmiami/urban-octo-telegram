@@ -63,6 +63,8 @@ p {
     background-position: center;
 }
 
+/* IMAGE FLOAT START */
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,6 +74,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* CONTENT STYLE START */
 
 .content {
     width: 75%;
